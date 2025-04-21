@@ -1,6 +1,6 @@
-from DSA.dmd import DMD
-from DSA.kerneldmd import KernelDMD
-from DSA.simdist import SimilarityTransformDist
+from dsa_repo.DSA.dmd import DMD
+from dsa_repo.DSA.kerneldmd import KernelDMD
+from dsa_repo.DSA.simdist import SimilarityTransformDist
 from typing import Literal
 import torch
 import numpy as np
